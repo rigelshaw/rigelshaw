@@ -1,6 +1,6 @@
 #Bonjour!!
 <p align="center">
-  <img src="Violin GIF.gif" alt="violin notes" width="820"/>
+  <img src="Violin GIF.gif" alt="violin notes" width="300"/>
 </p>
 
 # Rigel — Tanjil Ahmed  
