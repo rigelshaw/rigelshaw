@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="spiderweb.gif" alt="spider" width="130" style="vertical-align: middle; margin-right: 15px;"/>
   <img src="bonjourmortal.png" alt="Bonjour mortal" width="500"/>
-  <img src="candles.gif" alt="flickering candle" width="150" style="vertical-align: middle; margin-left: 15px;"/>
+  <img src="candles.gif" alt="flickering candle" width="170" style="vertical-align: middle; margin-left: 15px;"/>
 </h1>
 
 
