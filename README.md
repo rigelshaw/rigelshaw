@@ -80,11 +80,15 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 - 🕯 Create a **dev log series** (sharing code + aesthetics).  
 
 ---
+
+**Contact:** [tana798930@gmail.com](mailto:tana798930@gmail.com) — i reply fast.  
+
+---
+
 <p align="center">
   <span style="font-size:600px; color:#8A2BE2;">𝕬𝕯𝕴𝕰𝖀</span>
 </p>
----
-**Contact:** [tana798930@gmail.com](mailto:tana798930@gmail.com) — i reply fast.  
+
 ---
 > *“The world is quiet here. The code speaks louder than words.”*  
 
