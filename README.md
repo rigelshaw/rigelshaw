@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/XfW3f8Xy6rAAAAAd/spider.gif" alt="spider" width="80" style="vertical-align: middle; margin-right: 15px;"/>
+  <img src="https://tenor.com/view/spider-gif-23318551" alt="spider" width="80" style="vertical-align: middle; margin-right: 15px;"/>
   𝕭𝖔𝖓𝖏𝖔𝖚𝖗, 𝖒𝖔𝖗𝖙𝖆𝖑.
   <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" alt="flickering candle" width="80" style="vertical-align: middle; margin-left: 15px;"/>
 </h1>
