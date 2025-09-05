@@ -1,8 +1,9 @@
-<h1 align="center">𝕭𝖔𝖓𝖏𝖔𝖚𝖗, 𝖒𝖔𝖗𝖙𝖆𝖑.</h1>
-<p align="center">
-  <img src="https://example.com/spiderweb-animation.svg" alt="spooky spiderweb" width="250"/>
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" alt="flickering candle" width="100"/>
-</p>
+<h1 align="center">
+  <img src="https://media.tenor.com/XfW3f8Xy6rAAAAAd/spider.gif" alt="spider" width="80" style="vertical-align: middle; margin-right: 15px;"/>
+  𝕭𝖔𝖓𝖏𝖔𝖚𝖗, 𝖒𝖔𝖗𝖙𝖆𝖑.
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" alt="flickering candle" width="80" style="vertical-align: middle; margin-left: 15px;"/>
+</h1>
+
 
 <table>
 <tr>
