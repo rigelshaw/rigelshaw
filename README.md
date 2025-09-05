@@ -52,8 +52,7 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 
 ---
 
-**Contact:** `<tana798930@gmail.com>` — i reply fast.  
-*If you give me a problem, i'll ship a playable answer. If I fail, i'll learn faster.*
+**Contact:** [tana798930@gmail.com](mailto:tana798930@gmail.com) — i reply fast.
 
 <!--
 **rigelshaw/rigelshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
