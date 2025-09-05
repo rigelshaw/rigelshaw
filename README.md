@@ -85,9 +85,9 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 
 ---
 
-<p align="center">
-  <h1 align="center" style="color:#8A2BE2;">𝕬𝕯𝕴𝕰𝖀</h1>
-</p>
+<h1 align="center">
+  <img src="heheonline-video-cutter.com-ezgif.com-speed.gif" alt="spider" width="130" style="vertical-align: middle; margin-right: 15px;"/>
+</h1>
 
 ---
 > *“The world is quiet here. The code speaks louder than words.”*  
