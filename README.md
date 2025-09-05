@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="spiderweb.gif" alt="spider" width="60" style="vertical-align: middle; margin-right: 15px;"/>
-  𝕭𝖔𝖓𝖏𝖔𝖚𝖗, 𝖒𝖔𝖗𝖙𝖆𝖑.
+  <span style="font-size: 80px;">𝕭𝖔𝖓𝖏𝖔𝖚𝖗, 𝖒𝖔𝖗𝖙𝖆𝖑.</span>
   <img src="candles.gif" alt="flickering candle" width="80" style="vertical-align: middle; margin-left: 15px;"/>
 </h1>
 
