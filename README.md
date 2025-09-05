@@ -86,7 +86,7 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 ---
 
 <h1 align="center">
-  <img src="heheonline-video-cutter.com-ezgif.com-speed.gif" alt="spider" width="500" style="vertical-align: middle; margin-right: 15px;"/>
+  <img src="heheonline-video-cutter.com-ezgif.com-speed.gif" alt="spider" width="700" style="vertical-align: middle; margin-right: 15px;"/>
 </h1>
 
 ---
