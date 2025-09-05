@@ -1,6 +1,6 @@
 #Bonjour!!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rigelshaw/assets/main/violin-notes.gif" alt="violin notes" width="820"/>
+  <img src="Violin GIF.gif" alt="violin notes" width="820"/>
 </p>
 
 # Rigel — Tanjil Ahmed  
