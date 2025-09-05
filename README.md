@@ -85,7 +85,7 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 ---
 
 <p align="center">
-  <span style="font-size:180px; color:#8A2BE2;">𝕬𝕯𝕴𝕰𝖀</span>
+  <span style="font-size:600px; color:#8A2BE2;">𝕬𝕯𝕴𝕰𝖀</span>
 </p>
 
 
