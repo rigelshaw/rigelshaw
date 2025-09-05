@@ -81,19 +81,13 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 
 ---
 
-## 🐍 Animations  
-
-<p align="center">
-  <img src="https://github.com/rigelshaw/rigelshaw/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rigelshaw&color=8A2BE2&style=flat-square&label=Profile+Views" />
-</p>
-
+**Contact:** [tana798930@gmail.com](mailto:tana798930@gmail.com) — i reply fast.  
 ---
 
-**Contact:** [tana798930@gmail.com](mailto:tana798930@gmail.com) — i reply fast.  
+<p align="center">
+  <span style="font-size:180px; color:#8A2BE2;">𝕬𝕯𝕴𝕰𝖀</span>
+</p>
+
 
 > *“The world is quiet here. The code speaks louder than words.”*  
 
