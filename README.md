@@ -10,10 +10,12 @@
 <td width="65%" valign="top">
 
 # Rigel Shaw — Tanjil Ahmed  
-*quiet. deliberate. building things that linger.*
+*game developer,hard coder.*
 
-I'm a B.Tech (CS) student at VIT Chennai.  
-I work on systems that people can touch — playable prototypes, useful tools, and polished interactive demos. Right now I'm sharpening **Unity (C#)**, 3D art workflows, and systems-level C++/Python work. I learn fastest by shipping small, playable things and then iterating until they feel right.
+I'm a B.Tech (CS) student at VIT Chennai. 
+I hold keen intrest in computers and research (more inclined towards sciences[chem-phy]).
+Right now I'm sharpening **Unreal(c++)**, 3D art workflows, and systems-level C++/Python work.
+I believe in project quality and how big of an impact my work can have.
 
 </td>
 <td width="35%" align="center">
@@ -27,7 +29,7 @@ I work on systems that people can touch — playable prototypes, useful tools, a
 ---
 
 ## ⚔️ Current Focus
-- Nailing Unity fundamentals: scene architecture, camera systems, and input pipelines.  
+- Enhancing my unity skills for AAA shift to unreal.  
 - Making game feel: micro-interactions, responsive UI, subtle polish.  
 - Improving code hygiene and reproducible project setups on GitHub.  
 - Building tools that researchers or teams can actually run.
@@ -37,11 +39,11 @@ I work on systems that people can touch — playable prototypes, useful tools, a
 ## 📂 Selected Work
 - **QTransfer — Quantum Security** — experimental prototype exploring secure transfer concepts (research-oriented toolchain + demo).  
 - **ScriptGuard** — browser script blocker I built to reliably block unwanted cookie/policy scripts on heavy sites (fully working extension/script).  
-- **Gesture Game (Full Title)** — a complete Unity 3D game I built solo: low-poly assets, environment, OpenCV-based gesture input, interaction logic, and a public demo shown at a campus event.  
-- **Prevexa** — Codezilla hackathon (team of 5). Role: integration & UI testing → demo & repo pinned.  
-- **Bear Catcher** — Plezmo (AIM / NITI Aayog, 2020) — early prototype and event submission.  
+- **Hand Gesture Game (Sajil)** — a complete Unity 3D game I built solo: low-poly assets, environment, OpenCV-based gesture input, interaction logic, and a public demo shown at a campus event.  (did testing on 50 ppl befire showcasing).
+- **Bear Catcher** — Plezmo (AIM / NITI Aayog, 2020) — early prototype and event submission.
+- **hybrid ML framework for hydrogen storage prediction in MOFs**-ongoing research under a faculty.
 
-(Repos, builds and demo videos are linked on my profile — playable builds available in selected project folders.)
+(Repos, builds and demo videos are linked on my profile — playable builds available in selected project folders.(soon))
 
 ---
 
@@ -80,9 +82,9 @@ I work on systems that people can touch — playable prototypes, useful tools, a
 
 ---
 
-## 🕸️ Roadmap 2025
+## 🕸️ Roadmap 2026
 - Ship **3 small Unity prototypes** (playable builds + short design notes).  
-- Release an **integration example**: Unity ↔ Python JSON client (one repo with code + demo data).  
+- Complete  **hybrid ML framework for hydrogen storage prediction in MOFs**.  
 - Open-source **ScriptGuard** core and a simple install guide for testing.  
 - Win (or place) in one major hackathon with a team-built prototype that tells a clear story.  
 - Level up C++ for systems and low-level optimization relevant to game engines and tooling.  
@@ -90,7 +92,7 @@ I work on systems that people can touch — playable prototypes, useful tools, a
 
 ---
 
-**Contact:** [tan j il.ahmed2025@vitstudent.ac.in](mailto:tan j il.ahmed2025@vitstudent.ac.in) — I reply fast.  
+**Contact:** [tanjil.ahmed2025@vitstudent.ac.in].  
 
 ---
 
@@ -100,4 +102,4 @@ I work on systems that people can touch — playable prototypes, useful tools, a
 
 ---
 
-> *“The work is quiet. The result lingers.”*  
+> *“My Mantra : 5 mins of working>1hour of thinking to do work.”*  
