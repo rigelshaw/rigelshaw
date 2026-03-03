@@ -12,9 +12,8 @@
 # Rigel Shaw — Tanjil Ahmed  
 *quiet. deliberate. building things that linger.*
 
-i'm a B.Tech (CS) student at VIT Chennai.  
-i study systems, stories and polish — currently learning **Unity (C#)** and **UI/UX (Figma)**.  
-i take part in hackathons and I learn fastest by shipping small, playable prototypes.
+I'm a B.Tech (CS) student at VIT Chennai.  
+I work on systems that people can touch — playable prototypes, useful tools, and polished interactive demos. Right now I'm sharpening **Unity (C#)**, 3D art workflows, and systems-level C++/Python work. I learn fastest by shipping small, playable things and then iterating until they feel right.
 
 </td>
 <td width="35%" align="center">
@@ -28,34 +27,43 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 ---
 
 ## ⚔️ Current Focus
-- Mastering Unity fundamentals (movement, collisions, UI).  
-- Practicing UI/UX flows and micro-interactions.  
-- Improving GitHub hygiene and building small, complete projects.  
+- Nailing Unity fundamentals: scene architecture, camera systems, and input pipelines.  
+- Making game feel: micro-interactions, responsive UI, subtle polish.  
+- Improving code hygiene and reproducible project setups on GitHub.  
+- Building tools that researchers or teams can actually run.
 
 ---
 
 ## 📂 Selected Work
-- **Prevexa** — Codezilla hackathon (team of 5). *Role:* integration & UI testing → demo & repo pinned.  
-- **Bear Catcher** — Plezmo (AIM / NITI Aayog, 2020).  
-- **Prototype plans:** currently building foundations in Unity.  
+- **QTransfer — Quantum Security** — experimental prototype exploring secure transfer concepts (research-oriented toolchain + demo).  
+- **ScriptGuard** — browser script blocker I built to reliably block unwanted cookie/policy scripts on heavy sites (fully working extension/script).  
+- **Gesture Game (Full Title)** — a complete Unity 3D game I built solo: low-poly assets, environment, OpenCV-based gesture input, interaction logic, and a public demo shown at a campus event.  
+- **Prevexa** — Codezilla hackathon (team of 5). Role: integration & UI testing → demo & repo pinned.  
+- **Bear Catcher** — Plezmo (AIM / NITI Aayog, 2020) — early prototype and event submission.  
 
-*(links: Plezmo profile • Prevexa repo • certificates — coming_soon)*  
+(Repos, builds and demo videos are linked on my profile — playable builds available in selected project folders.)
 
 ---
 
 ## 🕯️ What I Bring
-- curious, disciplined, and team-focused.  
-- ship small things well; iterate fast.  
-- care about polish: UI feel, loading smoothness, subtle audio cues.  
-- open to hackathons, collabs and mentorship — i show up, and i follow through.  
+- I ship working prototypes: playable, testable, and document how to run them.  
+- Strong practical Unity skills: scene design, prefabs, camera pipelines, input handling, and C# architecture.  
+- Systems mindset: I connect front-end visuals to data/tools (Python clients, simple APIs, JSON schemas).  
+- Fast iteration and polish: I prioritize user feel (UI responsiveness, loading flow, simple onboarding).  
+- Ownership: I manage versioning, testing, and readme/docs so others can run my work.  
+- Team-ready: I communicate clearly, accept feedback, and turn it into concrete fixes quickly.
 
 ---
 
 ## ⚙️ Tech & Tools  
 ![C++](https://img.shields.io/badge/C++-2E2E2E?style=for-the-badge&logo=cplusplus&logoColor=8A2BE2) 
 ![Unity](https://img.shields.io/badge/Unity-0A0A0A?style=for-the-badge&logo=unity&logoColor=8A2BE2) 
-![Figma](https://img.shields.io/badge/Figma-1C1C1C?style=for-the-badge&logo=figma&logoColor=8A2BE2) 
 ![Blender](https://img.shields.io/badge/Blender-2C2C2C?style=for-the-badge&logo=blender&logoColor=8A2BE2)  
+![OpenCV](https://img.shields.io/badge/OpenCV-1C1C1C?style=for-the-badge&logo=opencv&logoColor=8A2BE2)  
+![Python](https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=8A2BE2)  
+![C#](https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=c-sharp&logoColor=8A2BE2)  
+![Git](https://img.shields.io/badge/Git-2C2C2C?style=for-the-badge&logo=git&logoColor=8A2BE2)  
+![VSCode](https://img.shields.io/badge/VSCode-1C1C1C?style=for-the-badge&logo=visualstudiocode&logoColor=8A2BE2)  
 
 ---
 
@@ -73,15 +81,16 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 ---
 
 ## 🕸️ Roadmap 2025
-- 🕯 Publish **3 Unity prototypes** (small, polished, playable).  
-- 🕯 Build an **open-source UI kit** for devs/designers.  
-- 🕯 Crack a **hackathon win** with a story-driven game.  
-- 🕯 Strengthen **C++ & system-level coding** for placements.  
-- 🕯 Create a **dev log series** (sharing code + aesthetics).  
+- Ship **3 small Unity prototypes** (playable builds + short design notes).  
+- Release an **integration example**: Unity ↔ Python JSON client (one repo with code + demo data).  
+- Open-source **ScriptGuard** core and a simple install guide for testing.  
+- Win (or place) in one major hackathon with a team-built prototype that tells a clear story.  
+- Level up C++ for systems and low-level optimization relevant to game engines and tooling.  
+- Start a short dev-log series: 5 posts that show how a prototype moves from idea → playable → polished.
 
 ---
 
-**Contact:** [tana798930@gmail.com](mailto:tana798930@gmail.com) — i reply fast.  
+**Contact:** [tan j il.ahmed2025@vitstudent.ac.in](mailto:tan j il.ahmed2025@vitstudent.ac.in) — I reply fast.  
 
 ---
 
@@ -90,20 +99,5 @@ i take part in hackathons and I learn fastest by shipping small, playable protot
 </h1>
 
 ---
-> *“The world is quiet here. The code speaks louder than words.”*  
 
-
-<!--
-**rigelshaw/rigelshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *“The work is quiet. The result lingers.”*  
